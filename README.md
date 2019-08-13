@@ -3,3 +3,8 @@
 
 ![oshe js](1.png)
 
+:relaxed:hey learn new thing:point_down::point_down:
+<p align="center">
+  <img width="460" height="300" src="https://github.com/oshada97/O-js-functions/blob/master/1.png">
+</p>
+
